@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.xml.internal.messaging.saaj.util.ByteOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.generics.Employee"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.typeinfo.factory.Factory"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="za.co.coach.simple.List"/>
+<fullyQualifiedTypeName name="za.co.coach.simple.Vector"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.access.dessert.Cookie"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.access.cookie2.Cookie"/>
+<fullyQualifiedTypeName name="za.co.coach.util.CountingGenerator"/>
+<fullyQualifiedTypeName name="za.co.coach.util.RandomGenerator"/>
+<fullyQualifiedTypeName name="za.co.coach.util.SwingConsole"/>
+<fullyQualifiedTypeName name="za.co.coach.util.Generated"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.typeinfo.pets.Individual"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.typeinfo.pets.Pet"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="za.co.coach.util.Generator"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.interfaces.filters.Filter"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.polymorphism.shape.RandomShapeGenerator"/>
+<fullyQualifiedTypeName name="za.co.coach.learning.tij.polymorphism.music.Note"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

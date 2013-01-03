@@ -1,0 +1,13 @@
+package za.co.coach.learning.tij.gui;
+
+//: za.co.coach.learning.tij.gui/HelloSwing.java
+import javax.swing.JFrame;
+
+public class HelloSwing {
+	public static void main(String[] args) {
+		JFrame frame = new JFrame("Hello Swing");
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setSize(300, 100);
+		frame.setVisible(true);
+	}
+} ///:~
